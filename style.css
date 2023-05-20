@@ -7,13 +7,13 @@ img{
     margin-left: 10px;
 }
 h1{
-    color: lime;
+    color: rgb(130, 255, 6);
 }
 p{
-    color: aqua;
+    color: rgb(34, 177, 177);
 }
 .footer{
-    color: white;
+    color: aqua;
     background-color: red;
     text-align: center;
 }
